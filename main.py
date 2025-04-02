@@ -12,7 +12,7 @@ def diet():
   {
     "ID": 1,
     "Name": "Apple",
-    "image": "https://imgur.com/GTPCfWt",
+    "image": "https://imgur.com/GTPCfWt.jpg",
     "Amount": "1",
     "Recipe 1": "Apple Chia Pudding",
     "Recipe 1 Description": "Soak chia seeds in almond milk overnight. Add chopped apples and a dash of cinnamon.",
@@ -24,7 +24,7 @@ def diet():
   {
     "ID": 2,
     "Name": "Banana",
-    "image": "https://imgur.com/a/9Q4Ye9r",
+    "image": "https://imgur.com/a/9Q4Ye9r.jpg",
     "Amount": "1",
     "Recipe 1": "Banana Almond Smoothie",
     "Recipe 1 Description": "Blend banana with almond milk, flaxseeds, and dates.",
@@ -36,7 +36,7 @@ def diet():
   {
     "ID": 3,
     "Name": "Oranges",
-    "image": "https://imgur.com/aDyOlKZ",
+    "image": "https://imgur.com/aDyOlKZ.jpg",
     "Amount": "1",
     "Recipe 1": "Orange & Carrot Juice",
     "Recipe 1 Description": "Blend fresh orange juice with carrot and ginger.",
@@ -48,7 +48,7 @@ def diet():
   {
     "ID": 4,
     "Name": "Carrots",
-    "image": "https://imgur.com/hFlgzrn",
+    "image": "https://imgur.com/hFlgzrn.jpg",
     "Amount": "100g",
     "Recipe 1": "Carrot & Moong Dal Soup",
     "Recipe 1 Description": "Boil carrots with moong dal and blend for a protein-rich soup.",
@@ -60,7 +60,7 @@ def diet():
   {
     "ID": 5,
     "Name": "Green Beans",
-    "image": "https://imgur.com/Rcvsg9Q",
+    "image": "https://imgur.com/Rcvsg9Q.jpg",
     "Amount": "100g",
     "Recipe 1": "Stir-Fried Green Beans with Sesame",
     "Recipe 1 Description": "Cook beans with garlic, sesame seeds, and a drizzle of olive oil.",
@@ -72,7 +72,7 @@ def diet():
   {
     "ID": 6,
     "Name": "Broccoli",
-    "image": "https://imgur.com/PCXqXc9",
+    "image": "https://imgur.com/PCXqXc9.jpg",
     "Amount": "100g",
     "Recipe 1": "Broccoli & Almond Soup",
     "Recipe 1 Description": "Blend steamed broccoli with almonds and black pepper.",
@@ -84,7 +84,7 @@ def diet():
   {
     "ID": 7,
     "Name": "Spinach",
-    "image": "https://imgur.com/ZGeMeEx",
+    "image": "https://imgur.com/ZGeMeEx.jpg",
     "Amount": "100g",
     "Recipe 1": "Spinach & Chickpea Salad",
     "Recipe 1 Description": "Mix fresh spinach with chickpeas, olive oil, and lemon juice.",
@@ -96,7 +96,7 @@ def diet():
  {
     "ID": 8,
     "Name": "Sweet Potato",
-    "image": "https://imgur.com/EmH2pet",
+    "image": "https://imgur.com/EmH2pet.jpg",
     "Amount": "150g",
     "Recipe 1": "Baked Sweet Potato Fries",
     "Recipe 1 Description": "Cut sweet potatoes into fries, toss with olive oil and bake.",
@@ -108,7 +108,7 @@ def diet():
   {
     "ID": 9,
     "Name": "Rajma (Kidney Beans)",
-    "image": "https://imgur.com/akxXomK",
+    "image": "https://imgur.com/akxXomK.jpg",
     "Amount": "100g",
     "Recipe 1": "Rajma Masala",
     "Recipe 1 Description": "Cook kidney beans with tomatoes, onions, and Indian spices.",
@@ -120,7 +120,7 @@ def diet():
   {
     "ID": 10,
     "Name": "Brown Rice",
-    "image": "https://imgur.com/xK3BJGM",
+    "image": "https://imgur.com/xK3BJGM.jpg",
     "Amount": "100g",
     "Recipe 1": "Brown Rice & Vegetable Stir-Fry",
     "Recipe 1 Description": "Cook brown rice with sautéed vegetables and soy sauce.",
@@ -132,7 +132,7 @@ def diet():
   {
     "ID": 11,
     "Name": "Quinoa",
-    "image": "https://imgur.com/349edzZ",
+    "image": "https://imgur.com/349edzZ.jpg",
     "Amount": "75g",
     "Recipe 1": "Quinoa Upma",
     "Recipe 1 Description": "Cook quinoa with onions, tomatoes, and mustard seeds.",
@@ -144,7 +144,7 @@ def diet():
   {
     "ID": 12,
     "Name": "Milk",
-    "image": "https://imgur.com/bUMt9w6",
+    "image": "https://imgur.com/bUMt9w6.jpg",
     "Amount": "250ml",
     "Recipe 1": "Milk Smoothie",
     "Recipe 1 Description": "Blend milk with banana, peanut butter, and oats.",
@@ -156,7 +156,7 @@ def diet():
   {
     "ID": 13,
     "Name": "Curd(Yogurt)",
-    "image": "https://imgur.com/XiyGXxF",
+    "image": "https://imgur.com/XiyGXxF.jpg",
     "Amount": "200g",
     "Recipe 1": "Raita",
     "Recipe 1 Description": "Mix curd with cucumber, cumin, and salt.",
@@ -168,7 +168,7 @@ def diet():
   {
     "ID": 14,
     "Name": "Oats",
-    "image": "https://imgur.com/o98gLA7",
+    "image": "https://imgur.com/o98gLA7.jpg",
     "Amount": "50g",
     "Recipe 1": "Oats Porridge",
     "Recipe 1 Description": "Cook with milk and add fruits.",
@@ -180,7 +180,7 @@ def diet():
   {
     "ID": 15,
     "Name": "Paneer(Cottage Cheeze)",
-    "image": "https://imgur.com/a/L1sS1Te",
+    "image": "https://imgur.com/a/L1sS1Te.jpg",
     "Amount": "150g",
     "Recipe 1": "Paneer Bhurji",
     "Recipe 1 Description": "Scramble paneer with onion and spices.",
@@ -192,7 +192,7 @@ def diet():
   {
     "ID": 16,
     "Name": "Roti(Whole Wheat)",
-    "image": "https://imgur.com/Pp46pGH",
+    "image": "https://imgur.com/Pp46pGH.jpg",
     "Amount": "2pcs",
     "Recipe 1": "Roti Pizza",
     "Recipe 1 Description": "Use roti as a base and top with veggies and cheese.",
