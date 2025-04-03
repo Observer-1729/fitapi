@@ -12,7 +12,7 @@ def diet():
   {
     "ID": 1,
     "Name": "Apple",
-    "image": "https://imgur.com/GTPCfWt.jpg",
+    "image": "https://i.imgur.com/BV8ZfQ6.jpg",
     "Amount": "1",
     "Recipe 1": "Apple Chia Pudding",
     "Recipe 1 Description": "Soak chia seeds in almond milk overnight. Add chopped apples and a dash of cinnamon.",
@@ -24,7 +24,7 @@ def diet():
   {
     "ID": 2,
     "Name": "Banana",
-    "image": "https://imgur.com/a/9Q4Ye9r.jpg",
+    "image": "https://i.imgur.com/xjDCBVS.jpg",
     "Amount": "1",
     "Recipe 1": "Banana Almond Smoothie",
     "Recipe 1 Description": "Blend banana with almond milk, flaxseeds, and dates.",
@@ -36,7 +36,7 @@ def diet():
   {
     "ID": 3,
     "Name": "Oranges",
-    "image": "https://imgur.com/aDyOlKZ.jpg",
+    "image": "https://i.imgur.com/idkOIO9.jpg",
     "Amount": "1",
     "Recipe 1": "Orange & Carrot Juice",
     "Recipe 1 Description": "Blend fresh orange juice with carrot and ginger.",
@@ -48,7 +48,7 @@ def diet():
   {
     "ID": 4,
     "Name": "Carrots",
-    "image": "https://imgur.com/hFlgzrn.jpg",
+    "image": "https://i.imgur.com/BXDMquH.jpg",
     "Amount": "100g",
     "Recipe 1": "Carrot & Moong Dal Soup",
     "Recipe 1 Description": "Boil carrots with moong dal and blend for a protein-rich soup.",
@@ -60,7 +60,7 @@ def diet():
   {
     "ID": 5,
     "Name": "Green Beans",
-    "image": "https://imgur.com/Rcvsg9Q.jpg",
+    "image": "https://i.imgur.com/XmhZ9Z0.jpg",
     "Amount": "100g",
     "Recipe 1": "Stir-Fried Green Beans with Sesame",
     "Recipe 1 Description": "Cook beans with garlic, sesame seeds, and a drizzle of olive oil.",
@@ -72,7 +72,7 @@ def diet():
   {
     "ID": 6,
     "Name": "Broccoli",
-    "image": "https://imgur.com/PCXqXc9.jpg",
+    "image": "https://i.imgur.com/3dbJfw6.jpg",
     "Amount": "100g",
     "Recipe 1": "Broccoli & Almond Soup",
     "Recipe 1 Description": "Blend steamed broccoli with almonds and black pepper.",
@@ -84,7 +84,7 @@ def diet():
   {
     "ID": 7,
     "Name": "Spinach",
-    "image": "https://imgur.com/ZGeMeEx.jpg",
+    "image": "https://i.imgur.com/x3fKCoS.jpg",
     "Amount": "100g",
     "Recipe 1": "Spinach & Chickpea Salad",
     "Recipe 1 Description": "Mix fresh spinach with chickpeas, olive oil, and lemon juice.",
@@ -96,7 +96,7 @@ def diet():
  {
     "ID": 8,
     "Name": "Sweet Potato",
-    "image": "https://imgur.com/EmH2pet.jpg",
+    "image": "https://i.imgur.com/HKA9vSE.jpg",
     "Amount": "150g",
     "Recipe 1": "Baked Sweet Potato Fries",
     "Recipe 1 Description": "Cut sweet potatoes into fries, toss with olive oil and bake.",
@@ -108,7 +108,7 @@ def diet():
   {
     "ID": 9,
     "Name": "Rajma (Kidney Beans)",
-    "image": "https://imgur.com/akxXomK.jpg",
+    "image": "https://i.imgur.com/PjQ1Ah0.jpg",
     "Amount": "100g",
     "Recipe 1": "Rajma Masala",
     "Recipe 1 Description": "Cook kidney beans with tomatoes, onions, and Indian spices.",
@@ -120,7 +120,7 @@ def diet():
   {
     "ID": 10,
     "Name": "Brown Rice",
-    "image": "https://imgur.com/xK3BJGM.jpg",
+    "image": "https://i.imgur.com/1a3VKqv.jpg",
     "Amount": "100g",
     "Recipe 1": "Brown Rice & Vegetable Stir-Fry",
     "Recipe 1 Description": "Cook brown rice with sautéed vegetables and soy sauce.",
@@ -132,7 +132,7 @@ def diet():
   {
     "ID": 11,
     "Name": "Quinoa",
-    "image": "https://imgur.com/349edzZ.jpg",
+    "image": "https://i.imgur.com/cZDR56M.jpg",
     "Amount": "75g",
     "Recipe 1": "Quinoa Upma",
     "Recipe 1 Description": "Cook quinoa with onions, tomatoes, and mustard seeds.",
@@ -144,7 +144,7 @@ def diet():
   {
     "ID": 12,
     "Name": "Milk",
-    "image": "https://imgur.com/bUMt9w6.jpg",
+    "image": "https://i.imgur.com/m50Nhw5.jpg",
     "Amount": "250ml",
     "Recipe 1": "Milk Smoothie",
     "Recipe 1 Description": "Blend milk with banana, peanut butter, and oats.",
@@ -156,7 +156,7 @@ def diet():
   {
     "ID": 13,
     "Name": "Curd(Yogurt)",
-    "image": "https://imgur.com/XiyGXxF.jpg",
+    "image": "https://i.imgur.com/Ju1ZJI4.jpg",
     "Amount": "200g",
     "Recipe 1": "Raita",
     "Recipe 1 Description": "Mix curd with cucumber, cumin, and salt.",
@@ -168,7 +168,7 @@ def diet():
   {
     "ID": 14,
     "Name": "Oats",
-    "image": "https://imgur.com/o98gLA7.jpg",
+    "image": "https://i.imgur.com/RM0MvyI.jpg",
     "Amount": "50g",
     "Recipe 1": "Oats Porridge",
     "Recipe 1 Description": "Cook with milk and add fruits.",
@@ -180,7 +180,7 @@ def diet():
   {
     "ID": 15,
     "Name": "Paneer(Cottage Cheeze)",
-    "image": "https://imgur.com/a/L1sS1Te.jpg",
+    "image": "https://i.imgur.com/eB1Qh3i.png",
     "Amount": "150g",
     "Recipe 1": "Paneer Bhurji",
     "Recipe 1 Description": "Scramble paneer with onion and spices.",
@@ -192,7 +192,7 @@ def diet():
   {
     "ID": 16,
     "Name": "Roti(Whole Wheat)",
-    "image": "https://imgur.com/Pp46pGH.jpg",
+    "image": "https://i.imgur.com/BqDMmMc.jpg",
     "Amount": "2pcs",
     "Recipe 1": "Roti Pizza",
     "Recipe 1 Description": "Use roti as a base and top with veggies and cheese.",
@@ -211,70 +211,70 @@ def exercise():
   {
     "id": 1,
     "exercise": "Wide Push-Ups",
-    "gif": "https://imgur.com/a/63nUDYf",
+    "gif": "https://i.imgur.com/uhZ7dP8.gifv",
     "description": "A variation of the standard push-up that targets the chest muscles more intensely by widening the hand placement.",
     "reps/time": "3 sets of 12 reps"
   },
   {
     "id": 2,
     "exercise": "Diamond Push-Ups",
-    "gif": "https://imgur.com/a/0FNpzkx",
+    "gif": "https://i.imgur.com/CjMZ59T.gifv",
     "description": "A push-up variation where hands are placed close together to form a diamond shape, focusing on triceps and inner chest.",
     "reps/time": "3 sets of 12 reps"
   },
  {
     "id": 3,
     "exercise": "Knee Push-Ups",
-    "gif": "https://imgur.com/a/VtSmEtO",
+    "gif": "https://i.imgur.com/41vniIo.gifv",
     "description": "A beginner-friendly push-up performed on the knees instead of toes, reducing difficulty while strengthening the upper body.",
     "reps/time": "3 sets of 12 reps"
   },
   {
     "id": 4,
     "exercise": "Incline Push-Ups",
-    "gif": "https://imgur.com/a/O3udkxj",
+    "gif": "https://i.imgur.com/SUJVScC.gifv",
     "description": "A push-up performed with hands elevated on a surface like a bench, reducing difficulty and focusing on lower chest.",
     "reps/time": "3 sets of 12 reps"
   },
   {
     "id": 5,
     "exercise": "Decline Push-Ups",
-    "gif": "https://imgur.com/a/CyNE1uB",
+    "gif": "https://i.imgur.com/CIZxzpI.gifv",
     "description": "A push-up with feet elevated, increasing difficulty and focusing more on the upper chest and shoulders.",
     "reps/time": "3 sets of 12 reps"
   },
   {
     "id": 6,
     "exercise": "Push-Ups",
-    "gif": "https://imgur.com/a/P5eB7C6",
+    "gif": "https://i.imgur.com/UgeB6NM.gifv",
     "description": "A fundamental bodyweight exercise targeting the chest, shoulders, and triceps while engaging the core.",
     "reps/time": "3 sets of 12 reps"
   },
   {
     "id": 7,
     "exercise": "Jump Squats",
-    "gif": "https://imgur.com/a/wRs3hoM",
+    "gif": "https://i.imgur.com/QejUY5f.gifv",
     "description": "An explosive squat variation where you jump at the top, improving leg strength and cardiovascular endurance.",
     "reps/time": "3 sets of 12 reps"
   },
   {
     "id": 8,
     "exercise": "Bulgarian Split Squats",
-    "gif": " https://imgur.com/a/dNJ9f8A",
+    "gif": "https://i.imgur.com/K3UgQOs.gifv",
     "description": "A single-leg squat performed with one foot elevated behind, targeting the quadriceps, glutes, and balance.",
     "reps/time": "3 sets of 12 reps"
   },
   {
     "id": 9,
     "exercise": "Squats",
-    "gif": "https://imgur.com/a/MJZOjp1",
+    "gif": "https://i.imgur.com/e1nVVzK.gifv",
     "description": "A fundamental lower-body exercise targeting the quadriceps, hamstrings, and glutes.",
     "reps/time": "3 sets of 12 reps"
   },
   {
     "id": 10,
     "exercise": "Pistol Squats",
-    "gif": "https://imgur.com/a/2oUnsTL",
+    "gif": "https://i.imgur.com/Fx93V3K.gifv",
     "description": "A challenging single-leg squat that enhances strength, balance, and flexibility.",
     "reps/time": "3 sets of 12 reps"
   },
@@ -282,223 +282,223 @@ def exercise():
     "id": 11,
     "exercise": "Single-Leg Glute Bridges",
     "description": "A hip bridge performed on one leg, targeting the glutes and hamstrings while improving stability.",
-    "gif": "https://imgur.com/a/F3hdhuA",
+    "gif": "https://i.imgur.com/AzrUaXu.gifv",
     "reps/time": "3 sets of 12 reps"
   },
   {
     "id": 12,
     "exercise": "Reverse Lunges",
-    "gif": "https://imgur.com/a/6DOH98k",
+    "gif": "https://i.imgur.com/nxkXCud.gifv",
     "description": "A lunge variation stepping backward, reducing knee strain while strengthening the legs and glutes.",
     "reps/time": "3 sets of 12 reps"
   },
   {
     "id": 13,
     "exercise": "Walking Lunges",
-    "gif": "https://imgur.com/a/2gNllT5",
+    "gif": "https://i.imgur.com/upeqb5q.gifv",
     "description": "A dynamic lunge exercise performed while moving forward, engaging the legs and improving coordination.",
     "reps/time": "45 sec"
   },
   {
     "id": 14,
     "exercise": "Lunges",
-    "gif": "https://imgur.com/a/871tN35",
+    "gif": "https://i.imgur.com/A59eQrh.gifv",
     "description": "A lower-body exercise where one leg steps forward and bends at the knee, strengthening the quadriceps and glutes.",
     "reps/time": "3 sets of 12 reps"
   },
   {
     "id": 15,
     "exercise": "Jumping Lunges",
-    "gif": "https://imgur.com/a/mT0YImX",
+    "gif": "https://i.imgur.com/nxkXCud.gifv",
     "description": "An explosive lunge variation involving jumps between each rep, enhancing leg power and cardiovascular fitness.",
     "reps/time": "3 sets of 12 reps"
   },
   {
     "id": 16,
     "exercise": "Mountain Climbers",
-    "gif": "https://imgur.com/a/7gzT4HV",
+    "gif": "https://i.imgur.com/sJb8aq9.gifv",
     "description": "A full-body cardio exercise mimicking a climbing motion, engaging the core, shoulders, and legs.",
     "reps/time": "45 sec"
   },
   {
     "id": 17,
     "exercise": "Cross-Body Mountain Climbers",
-    "gif": "https://imgur.com/a/XLVHZtD",
+    "gif": "https://i.imgur.com/YfakbN3.gifv",
     "description": "A variation of mountain climbers where knees are brought diagonally towards the opposite elbow, engaging obliques.",
     "reps/time": "45 sec"
   },
   {
     "id": 18,
     "exercise": "Skaters",
-    "gif": "https://imgur.com/a/n8nCVzl",
+    "gif": "https://i.imgur.com/HIvG1bi.gifv",
     "description": "A lateral jumping exercise mimicking a skating motion, improving agility and lower-body strength.",
     "reps/time": "45 sec"
   },
   {
     "id": 19,
     "exercise": "Burpees",
-    "gif": "https://imgur.com/a/FGvQXsn",
+    "gif": "https://i.imgur.com/RQCGsV1.gifv",
     "description": "A full-body exercise combining a squat, push-up, and jump to build strength and endurance.",
     "reps/time": "45 sec"
   },
   {
     "id": 20,
     "exercise": "High Knees",
-    "gif": " https://imgur.com/a/tLgs658",
+    "gif": "https://i.imgur.com/crImGbi.gifv",
     "description": " A cardio exercise involving rapid knee lifts, improving speed, endurance, and coordination.",
     "reps/time": "45 sec"
   },
   {
     "id": 21,
     "exercise": "Jumping Jacks",
-    "gif":"https://imgur.com/a/Wn2yVCu",
+    "gif":"https://i.imgur.com/dkHYyyp.gifv",
     "description": " A classic cardio movement where arms and legs move outward and inward rhythmically.",
     "reps/time": "45 sec"
   },
   {
     "id": 22,
     "exercise": "Butt Kicks",
-    "gif": "https://imgur.com/a/yW4QUfO",
+    "gif": "https://i.imgur.com/qNgad00.gifv",
     "description": " A cardio drill where heels are kicked towards the glutes, engaging hamstrings and improving endurance.",
     "reps/time": "45 sec"
   },
   {
     "id": 23,
     "exercise": "Shadow Boxing",
-    "gif": "https://imgur.com/a/yHMrmfS",
+    "gif": "https://i.imgur.com/B1jUYRp.gifv",
     "description": "A cardiovascular exercise mimicking boxing movements to enhance agility and endurance.",
     "reps/time": "45 sec"
   },
   {
     "id": 24,
     "exercise": "Russian Twists",
-    "gif": " https://imgur.com/a/IFOc0Hw",
+    "gif": "https://i.imgur.com/h9uZcWm.gifv",
     "description": "A core exercise where you twist the torso while seated, targeting obliques and improving rotational strength.",
     "reps/time": "30 sec per side"
   },
   {
     "id": 25,
     "exercise": "Leg Raises",
-    "gif": "https://imgur.com/a/yjorjwE",
+    "gif": "https://i.imgur.com/eeV3xTK.gifv",
     "description": "An abdominal exercise where legs are lifted while lying down, strengthening the lower abs.",
     "reps/time": "30 sec per side"
   },
   {
     "id": 26,
     "exercise": "Plank",
-    "gif": "https://imgur.com/a/RzqPZSo",
+    "gif": "https://i.imgur.com/BBpWDOu.gifv",
     "description": "A core-strengthening exercise where you hold your body in a straight line, supported by your forearms and toes. Improves core stability and endurance.",
     "reps/time": "30 sec per side"
   },
   {
     "id": 27,
     "exercise": "Side Plank",
-    "gif": "https://imgur.com/a/uayNaPE",
+    "gif": "https://i.imgur.com/RPenBYW.jpg",
     "description": "A variation of the plank where you balance on one forearm and the side of your foot, engaging the obliques and core.",
     "reps/time": "30 sec per side"
   },
   {
     "id": 28,
     "exercise": "Reverse Plank",
-    "gif": "https://imgur.com/a/cEuMIP1",
+    "gif": "https://i.imgur.com/XbQKaE2.jpg",
     "description": "A back-strengthening exercise where you hold a straight-body position while supporting yourself with your hands behind you. Targets the core and glutes.",
     "reps/time": "30 sec per side"
   },
   {
     "id": 29,
     "exercise": "Bicycle Crunches",
-    "gif": "https://imgur.com/a/wq5sLxX",
+    "gif": "https://i.imgur.com/uPEIAIy.gifv",
     "description": "A dynamic ab exercise where you alternate bringing your elbow to the opposite knee while performing a cycling motion with your legs.",
     "reps/time": "30 sec per side"
   },
   {
     "id": 30,
     "exercise": "Flutter Kicks",
-    "gif": "https://imgur.com/a/PGHtWSr",
+    "gif": "https://i.imgur.com/iuUqh7y.gifv",
     "description": "A core exercise where you lie on your back and alternate kicking your legs up and down while keeping them straight.",
     "reps/time": "30 sec per side"
   },
   {
     "id": 31,
     "exercise": "Heel Taps",
-    "gif": "https://imgur.com/a/yrouZ7M",
+    "gif": "https://i.imgur.com/8Bto719.gifv",
     "description": "A side abdominal exercise where you lie on your back and tap your heels alternately by engaging the obliques.",
     "reps/time": "30 sec per side"
   },
   {
     "id": 32,
     "exercise": "Toe Touches",
-    "gif": "https://imgur.com/a/cKCLDUH",
+    "gif": "https://i.imgur.com/7V8bUp7.gifv",
     "description": "An abdominal move where you lie on your back and reach for your toes, engaging your upper abs.",
     "reps/time": "30 sec per side"
   },
   {
     "id": 33,
     "exercise": "Plank Shoulder Taps",
-    "gif": "https://imgur.com/a/LbzDR5m",
+    "gif": "https://i.imgur.com/vTZI8M6.gifv",
     "description": "A variation of the plank where you alternate tapping your opposite shoulder while maintaining stability in your core.",
     "reps/time": "30 sec per side"
   },
   {
     "id": 34,
     "exercise": "Glute Bridges",
-    "gif": "https://imgur.com/a/qZBdUkR",
+    "gif": "https://i.imgur.com/VFL5KL5.gifv",
     "description": "A lower-body exercise where you lie on your back, push through your heels, and lift your hips, targeting the glutes and hamstrings.",
     "reps/time": "3 sets of 12 reps"
   },
   {
     "id": 35,
     "exercise": "Hip Thrusts",
-    "gif": "https://imgur.com/a/L4V1hmF",
+    "gif": "https://i.imgur.com/OSmKgB9.gifv",
     "description": "A glute-focused exercise where you rest your upper back on a bench and thrust your hips upward while engaging your glutes.",
     "reps/time": "3 sets of 12 reps"
   },
   {
     "id": 36,
     "exercise": "Fire Hydrants",
-    "gif": "https://imgur.com/a/j1RRclU",
+    "gif": "https://i.imgur.com/l593ebU.gifv",
     "description": "A lower-body move where you lift your knee outward from a tabletop position, targeting the glutes and hip mobility.",
     "reps/time": "3 sets of 12 reps"
   },
   {
     "id": 37,
     "exercise": "Donkey Kicks",
-    "gif": "https://imgur.com/a/mYZiQsM",
+    "gif": "https://i.imgur.com/VchU7Xm.gifv",
     "description": "A glute exercise where you kick one leg backward while keeping your knee bent, working on glute activation.",
     "reps/time": "3 sets of 12 reps"
   },
   {
     "id": 38,
     "exercise": "Wall Sit",
-    "gif": "https://imgur.com/a/FF9MlBP",
+    "gif": "https://i.imgur.com/PVMwKIx.gifv",
     "description": "A lower-body endurance exercise where you hold a squat position with your back against a wall.",
     "reps/time": "3 sets of 12 reps"
   },
   {
     "id": 39,
     "exercise": "Step-Ups",
-    "gif": "https://imgur.com/a/B5Ai8r8",
+    "gif": "https://i.imgur.com/UJrWYHQ.gifv",
     "description": "A functional movement where you step onto an elevated surface, engaging your legs and glutes.",
     "reps/time": "3 sets of 12 reps"
   },
   {
     "id": 40,
     "exercise": "Tricep Dips",
-    "gif": "https://imgur.com/a/Q142TcD",
+    "gif": "https://i.imgur.com/qzI4WNa.gifv",
     "description": "An upper-body exercise where you lower and raise your body using a chair or bench, targeting the triceps.",
     "reps/time": "3 sets of 12 reps"
   },
  {
     "id": 41,
     "exercise": "Superman Exercise",
-    "gif": "https://imgur.com/a/nUmQ8jo",
+    "gif": "https://i.imgur.com/FYkGvbX.gifv",
     "description": "A back-strengthening move where you lie on your stomach and lift your arms and legs simultaneously to engage the lower back.",
     "reps/time": "30 sec per side"
   },
   {
     "id": 42,
     "exercise": "Bird Dog",
-    "gif": "https://imgur.com/a/rrGeUQb",
+    "gif": "https://i.imgur.com/9HbeU0D.gifv",
     "description": "A core and balance exercise where you extend one arm and the opposite leg while maintaining stability in a tabletop position.",
     "reps/time": "30 sec per side"
   }
