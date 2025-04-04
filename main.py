@@ -513,9 +513,9 @@ exercise = [
 ]
 
 
-@app.get("/diet")
-def get_diet():
-    return {"diet": diet}
+@app.get("/exercise")
+def get_exercise():
+    return {"erercise": exercise}
 
 
 @app.get("/exercise/{id}")
