@@ -1,14 +1,12 @@
 from fastapi import FastAPI
-
 app = FastAPI()
 
 @app.get("/")
 def home():
     return{"message": "Welcome to fitconnect api"}
 
-@app.get("/diet")
-def diet():
-    diet = [
+
+diet = [
   {
     "ID": "1",
     "Name": "Apple",
@@ -201,13 +199,23 @@ def diet():
     "Recipe 3": "Roti Nachos",
     "Recipe 3 Description": "Cut and bake roti into crispy chips."
   }
-    ]
+]
 
-    return {"diet" : diet}
 
-@app.get("/exercise")
-def exercise():
-    exercise = [
+@app.get("/diet")
+def get_diet():
+    return {"diet": diet}
+
+
+@app.get("/diet/{id}")
+def get_diet_item(id: str):
+    for item in diet:
+        if item["ID"] == id:
+            return item
+    return {"error": "Item not found"}
+
+
+exercise = [
   {
     "id": "1",
     "exercise": "Wide Push-Ups",
@@ -502,5 +510,17 @@ def exercise():
     "description": "A core and balance exercise where you extend one arm and the opposite leg while maintaining stability in a tabletop position.",
     "reps/time": "30 sec per side"
   }
-    ]
-    return{"exercise": exercise}
+]
+
+
+@app.get("/diet")
+def get_diet():
+    return {"diet": diet}
+
+
+@app.get("/exercise/{id}")
+def get_exercise_item(id: str):
+    for item in exercise:
+        if item["id"] == id:
+            return item
+    return {"error": "Item not found"}
