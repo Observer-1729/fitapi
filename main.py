@@ -515,7 +515,7 @@ exercise = [
 
 @app.get("/exercise")
 def get_exercise():
-    return {"erercise": exercise}
+    return {"exercise": exercise}
 
 
 @app.get("/exercise/{id}")
